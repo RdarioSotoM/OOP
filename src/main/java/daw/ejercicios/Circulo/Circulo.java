@@ -31,7 +31,7 @@ public class Circulo {
 
     @Override
     public String toString() {
-        return "Cirulo [radio = " + radio + " ]";
+        return "Cirulo [radio = " + radio + "]";
     }
 
     

@@ -1,6 +1,6 @@
 package daw.ejercicios.Circulo;
 
-public class Prueba {
+public class Lanzador {
 
     public static void main(String[] args) {
         Circulo circulito = new Circulo();
